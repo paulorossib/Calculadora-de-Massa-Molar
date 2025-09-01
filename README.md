@@ -1,2 +1,2 @@
 # Calculadora-de-Massa-Molar
-Teste para aula
+Elaborar uma calculadora que faça cálculos químicos (massa molecular, mol, Avogadro).
